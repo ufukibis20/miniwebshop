@@ -2,6 +2,10 @@
 
 Ein kleines Java-Projekt zur Simulation eines Webshops mit Produktverwaltung und Warenkorb.
 
+## Screenshot
+
+![Mini Webshop](miniwebshop-screenshot.png)
+
 ## Features
 
 - Anzeige von Produkten
